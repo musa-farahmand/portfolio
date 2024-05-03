@@ -2,32 +2,45 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "Naikbeen Control Panel",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "I have worked as Software Engineer at Naikbeen Control Panel ; which is one of the Web Hosting and Web Development Companies with 3+ years of experince working in Tech Industry in Afghanistan. My responsibilities there were as following :",
+                "Design Stunning designs and widgets",
+                "Developing Custom themes and plugins",
+                "Maintenance and Customize sites",
+                "Maintenace and Customize sites",
+                "Optimizing Sites"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2023 – 10/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Full Stack Developer",
+            "subtitle": "Smart Friqi Company",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "I am actively working as a Full Stack web developer at Smartfriqi company. which is sub company of Teebalhoor commercial broker company based mainly in UAE but also active in other countrieslike Qatar, Kowait, Iraq and Afghanistan and more; with hundreds of employees. My responsibilitiesare as following :",
+                "Designing & making reusable Frontend components",
+                "Developing Rest APIs",
+                "Adding Real-time functionaly to Web applications",
+                "Desiging and analyzing databases",
+                "Hosting and server Maintainance",
+                "Testing and quality control of the final product"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "09/2021 – 10/2022"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Founder and Web Developer",
+            "subtitle": "Code9ine tech Company",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "We had our own startup company for almost 3 years, before we were compelled to shut it down dueto Taliban take over. I was one of the nine founders alongside my amazing friends. During thosethree years we worked on several large and small projects but our main focus was learning andbuilding our careers as developers, because we were still students at Kabul University at the time.",
+                "Yusof Rasani MIS.",
+                "Plastic MIS System",
+                "Raavi app (android & iOS)",
+                "Pharmacy MIS System"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01/2018 – 08/2021"
         }
     ]
 }

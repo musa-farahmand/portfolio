@@ -1,149 +1,134 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/sales.png",
+            "title": "Sales - Ecommerce ",
+            "bodyText": "- Sales e-commerce websites also often incorporate localization features to cater to users in different regions, offering content in multiple languages such as German and English. Localization involves translating website content, including product descriptions, navigation menus, and checkout processes, into the respective languages to enhance user experience. Additionally, these websites may implement location-based filtering capabilities, allowing users to filter products or services by zipcode to find options specific to their area or region. This localization and filtering functionality enhances the user experience by providing relevant and personalized content, making the shopping process more convenient and tailored to individual preferences and geographic locations.In addition, sales e-commerce websites typically list all products sold in various categories and display prices in a default currency, commonly the Dollar ($).",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
+                
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://sales.af"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "JQuery",
+                "php",
+                "Bootstrap",
+                "Laravel",
+                "JavaScript",
+                "Mysql"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/abc.png",
+            "title": "ABC -  Websites",
+            "bodyText": "-  ABC WEBSITES is an online directory service that lists businesses across various industries, including retail, services, and professional services. Users can search for businesses by name, category, or location, and access contact details, addresses, and other relevant information. \n ABC also offers advertising services for businesses to enhance their visibility on the platform. \n It also offers features for businesses to manage their online presence and engage with customers.",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
+               
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "http://abc.af"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
+                
                 "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "php",
+                "Laravel",
+                "JavaScript",
+                "jquery",
+                "Mysql"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/bast.png",
+            "title": "Bast - Job Portal Platform",
+            "bodyText": "-Bast.af is a job portal website serves as a virtual marketplace connecting job seekers with employers, facilitating the process of job hunting and recruitment. These platforms typically offer a wide array of features, including job listings across various industries, resume uploading and creation tools, personalized job recommendations, and communication channels between employers and candidates. Advanced portals may incorporate features such as skill assessments, career guidance resources, and interview preparation materials to enhance the job search experience. With the integration of algorithms and machine learning, these platforms can offer increasingly tailored recommendations and streamline the hiring process for both parties. Job portal websites have become indispensable tools in today's digital age, revolutionizing the way individuals find employment opportunities and companies identify top talent.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "text": "live",
+                    "href": "https://bast.af"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Laravel",
+                "jquery",
+                "php",
+                "JavaScript",
+                "Bootstrap"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/altaqwa.png",
+            "title": "Altaqwa websites",
+            "bodyText": "- Altaqwa is a university website serves as a comprehensive digital platform catering to students, faculty, staff, prospective students, alumni, and the public. Its homepage acts as a gateway, offering news, events, and quick links to vital sections. Prospective students find admission details, academic programs, and application processes. Academic resources like faculty profiles, course catalogs, and research opportunities are available, while student life sections cover campus services, extracurriculars, and support. Campus resources encompass libraries, health services, and maps, while news and events keep the community informed. An about us section shares the university's history, mission, and leadership. Alumni stay connected through news, events, and volunteering opportunities. Contact information and search functionality ensure easy navigation, while responsive design and accessibility prioritize user experience and security.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "text": "live",
+                    "href": "https://altaqwa.edu.af"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "Laravel",
+                "jquery",
+                "php",
+                "JavaScript",
+                "Bootstrap"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "title": "Yusof Rasani Cargo - MIS",
+            "bodyText": "- Cargo Management Information System (MIS) is a sophisticated software solution tailored to streamline and enhance the logistical operations of cargo companies. This comprehensive system incorporates a multitude of features including user registration, employee registration, salary management, order processing, currency exchange facilitation, vehicle management, and robust data tables for efficient data organization and analysis.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/musa-farahmand/rasani-backend"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "Laravel",
+                "php",
+                "Mysql",
+                "Rest API"
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "title": "Nawen Plastic Stock - MIS",
+            "bodyText": "-  The Plastic Management Information System (MIS) built with React.js, Next.js, and Express RESTful API offers a comprehensive solution for the plastic industry, encompassing user registration, employee registration, raw material management, production tracking, order processing, authentication, authorization, roles, and permissions. Users can seamlessly register and manage their accounts, while administrators oversee employee registration and assign roles and permissions for secure access to the system. With robust functionalities for raw material inventory management, production tracking, and streamlined order processing, the system ensures efficient operations from procurement to delivery. Authentication mechanisms such as JWT ensure secure access, while role based access control enhances data integrity and confidentiality, making it an indispensable tool for managing the complexities of the plastic industry.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "href": "https://github.com/musa-farahmand/plasticStock"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "Nextjs",
+                "Reactjs",
+                "Expressjs",
+                "mantine UI",
+                "JavaScript",
+                "tailwindcss"
+                
             ]
         },
         {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "title": "Hospital MIS & Website",
+            "bodyText": "- A hospital website and Management Information System (MIS) offer an integrated platform to streamline healthcare services, patient management, and administrative tasks. The website serves as a central hub for patients to access information about medical services, physicians, appointment scheduling, and health resources. Additionally, it provides educational content, health tips, and patient portals for accessing medical records and communicating with healthcare professionals. Behind the scenes, the MIS facilitates efficient hospital management by automating processes such as patient registration, billing, inventory management, and staff scheduling. It enables seamless coordination between departments, tracks patient progress, manages medical records securely, and generates reports for performance analysis and regulatory compliance. Together, the hospital website and MIS enhance patient satisfaction, operational efficiency, and overall healthcare delivery, ensuring a holistic approach to healthcare management.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/musa-farahmand/medilife_db"
                 }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "php",
+                "Laravel",
+                "LiveWire",
+                "JQuery",
+                "JavaScript",
+                "Bootstrap",
+                "Webpack"
             ]
         }
     ]
