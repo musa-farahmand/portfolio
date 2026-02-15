@@ -1,6 +1,63 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/shopino24.png",
+            "title": "E-Commerce Management System with Advanced Admin Panel",
+            "bodyText": "A comprehensive eCommerce platform designed to facilitate seamless online buying and selling experiences while providing powerful administrative control. The system enables customers to browse products, manage shopping carts, securely complete transactions, and track their orders in real time. The integrated admin panel offers complete management capabilities, allowing administrators to oversee products, categories, inventory, orders, customers, payments, and reports from a centralized dashboard. Administrators can add or update products, manage pricing and discounts, monitor stock levels, process orders, and analyze sales performance through detailed analytics and financial reports. The platform supports secure payment gateway integration, user authentication and role-based access control, order management workflows, and automated notifications. Built with scalability and performance in mind, it ensures smooth operation even with high traffic volumes.     This eCommerce solution is ideal for startups, small businesses, and enterprises seeking to establish or expand their digital marketplace with efficient backend management and a user-friendly shopping experience.",
+            "links": [
+                
+                {
+                    "text": "Live",
+                    "href": "https://ai.shopino24.com"
+                }
+            ],
+            "tags" : [
+                "Vue",
+                "Inertia.js",
+                "laravel",
+                "Tailwindcss",
+                "Mysql"
+               
+            ]
+        },
+         {
+            "image" : "images/projects/aishopino24.png",
+            "title": "FinTech Management Platform",
+            "bodyText": "-This FinTech platform is a robust solution designed for businesses and financial organizations to efficiently manage their operations and finances in one place. It provides comprehensive employee and user management, allowing admins to monitor performance, roles, and access levels. The platform includes expense and income tracking, enabling real-time insights into financial health, budget planning, and profitability analysis. The admin panel offers complete control over the system, including user permissions, financial reporting, and operational oversight. Advanced dashboards display key metrics such as cash flow, outstanding expenses, revenue trends, and user activity, helping decision-makers make informed strategic choices. With strong security protocols, data encryption, and audit logs, the platform ensures that sensitive financial and user data is protected. Additionally, its scalable architecture supports growing organizations, integrates seamlessly with payment gateways, and provides automated workflows for routine financial tasks. Whether for startups, SMEs, or large enterprises, this FinTech solution simplifies financial management, enhances transparency, improves operational efficiency, and supports sustainable growth.",
+            "links": [
+                
+                {
+                    "text": "Live",
+                    "href": "https://ai.shopino24.com"
+                }
+            ],
+            "tags" : [
+                "Vue",
+                "Inertia.js",
+                "laravel",
+                "Tailwindcss",
+                "Mysql"
+            ]
+        },
+        {
+            "image" : "images/projects/knackrise.png",
+            "title": "Services – ISP / Construction / Logistics ",
+            "bodyText": "- ISP, construction, and logistics websites often include localization features to serve users across different regions, offering content in multiple languages such as German and English. Localization involves translating website content—including service descriptions, navigation menus, and order or booking processes—into the respective languages to improve user experience. These websites may also implement location-based filtering capabilities, allowing users to find services, projects, or delivery options specific to their area or region, such as internet coverage availability, nearby construction projects, or local logistics hubs.This combination of localization and filtering enhances the user experience by providing relevant and personalized content, making it easier for users to access the services they need based on their location and preferences.Additionally, ISP, construction, and logistics websites typically list all services offered, organized by category, and may display pricing or service rates in a default currency, commonly the Dollar ($), while also accommodating regional variations when necessary.",
+            "links": [
+                
+                {
+                    "text": "Live",
+                    "href": "https://knackrise.com"
+                }
+            ],
+            "tags" : [
+                "JQuery",
+                "php",
+                "Bootstrap",
+                "JavaScript"
+            ]
+        },
+        {
             "image" : "images/projects/sales.png",
             "title": "Sales - Ecommerce ",
             "bodyText": "- Sales e-commerce websites also often incorporate localization features to cater to users in different regions, offering content in multiple languages such as German and English. Localization involves translating website content, including product descriptions, navigation menus, and checkout processes, into the respective languages to enhance user experience. Additionally, these websites may implement location-based filtering capabilities, allowing users to filter products or services by zipcode to find options specific to their area or region. This localization and filtering functionality enhances the user experience by providing relevant and personalized content, making the shopping process more convenient and tailored to individual preferences and geographic locations.In addition, sales e-commerce websites typically list all products sold in various categories and display prices in a default currency, commonly the Dollar ($).",

@@ -26,7 +26,11 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },{
+                    "icon": "images/skills/postgres.png",
+                    "title": "PostgreSQL"
                 }
+              
         ]},
         {
             "title": "Frameworks & Technologies",
@@ -73,9 +77,9 @@
                     "title": "Flutter"
                 },
                 
-                {
-                    "icon": "images/skills/photoshop.png",
-                    "title": "Photoshop"
+                 {
+                    "icon": "images/skills/inertia.svg",
+                    "title": "Inertia.js"
                 }
             ]
         },

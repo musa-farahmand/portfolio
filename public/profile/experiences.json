@@ -1,5 +1,39 @@
 {
     "experiences": [
+         {
+            "title": "Senior Full Stack Developer",
+            "subtitle": "Afghanistan | Bright Vision Technology Company(shopino24)",
+            "workType": "Full-time",
+            "workDescription": [
+                "Currently working as a Senior Full Stack Developer at Bright Vision Technology Compnay, a leading marketplace and eCommerce platform in Afghanistan. My role focuses on enhancing system performance, improving user experience, and developing scalable business solutions.",
+                "Enhanced and optimized the eCommerce user interface for better usability and performance",
+                "Maintained and upgraded core platform features and system architecture",
+                "Designed and improved the admin panel for efficient business operations",
+                "Integrated third-party APIs and internal services to expand platform capabilities",
+                "Developed a comprehensive FinTech MIS to streamline financial reporting and management",
+                " Performed continuous system maintenance, debugging, and performance optimization",
+                "Interacting and providing trainings to the clients",
+                "Collaborated with stakeholders to implement scalable and sustainable solutions"
+            ],
+            "dateText": "05/2025 – Present"
+        },
+         {
+            "title": "Full Stack Developer",
+            "subtitle": "Afghanistan | Yaftom Graphic & ICT Solutions",
+            "workType": "Full-time",
+            "workDescription": [
+                "I have worked as Full Stack Developer at Yaftom Graphic; which is one of the Web Hosting, Branding and Web Development Companies with 13+ years of experince working in Tech Industry in Afghanistan. My responsibilities there were as following:",
+                "DevOps & Deployment",
+                "Hosting & Registering Domain and Mail configuration",
+                "Scheduling using Cron jobs",
+                "Developing and Maintenance System",
+                "Developing and Organize Projects",
+                "Maintenance and Customize sites",
+                "Interacting and providing trainings to the clients",
+                "Optimization of sites and servers"
+            ],
+            "dateText": "05/2024 – 11/2025"
+        },
         {
             "title": "Software Engineer",
             "subtitle": "Naikbeen Control Panel",
@@ -12,7 +46,7 @@
                 "Maintenace and Customize sites",
                 "Optimizing Sites"
             ],
-            "dateText": "06/2023 – 10/2023"
+            "dateText": "04/2023 – 08/2023"
         },
         {
             "title": "Full Stack Developer",
@@ -27,7 +61,7 @@
                 "Hosting and server Maintainance",
                 "Testing and quality control of the final product"
             ],
-            "dateText": "09/2021 – 10/2022"
+            "dateText": "11/2021 – 10/2022"
         },
         {
             "title": "Founder and Web Developer",
